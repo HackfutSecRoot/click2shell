@@ -1,4 +1,3 @@
-```markdown
 # Click2Shell — WordPress Pre-Auth RCE Chain (PoC)
 
 Python proof-of-concept scripts for **Click2Shell**, the WordPress pre-authentication
